@@ -1,0 +1,23 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+h1 {
+  color: #800080;
+}
+#Get {
+  border: 5 px solid white;
+  padding: 10px 30px;
+  background-color: #DDA0DD;
+  color: white;
+}
+#zagruzka {
+  width: 200px;
+  height: 200px;
+  margin: 0 auto;
+  text-align: left;
+}
+body {
+  text-align: left;
+}
+s
